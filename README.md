@@ -18,3 +18,5 @@ Credit to all authors whose characters make up this game, and without whose pain
 Credit to Elecbyte, without whose painstaking hardwork, this MUGEN would not have been possible. 
 Credit to All Original Authors of Mortal Kombat, without whose painstaking hardwork, this MUGEN would not have been possible. 
 Voice of Shao Kahn during the Menu Screen: SubScorp
+
+<img ="https://drive.google.com/file/d/139sgrxaACBsN3XA_aD1jodrWcLUx8DqK/view?usp=sharing" width 500px; />
