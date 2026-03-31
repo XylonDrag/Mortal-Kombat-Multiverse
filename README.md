@@ -24,6 +24,9 @@ Voice of Shao Kahn during the Menu Screen: SubScorp
 
 Here is my YouTube Playlist where I'm uploading videos about this game: https://youtube.com/playlist?list=PLvoffHnqpsQjq8NDUvU2ZeCpDrAPfCYD7&si=FhRO-6BFVkhkIS3f
 
+![1001486319](https://github.com/user-attachments/assets/716e8d67-05d9-42e6-939f-4829f9c302b0)
+
+
 ![1001486300](https://github.com/user-attachments/assets/a3b1b8d7-de86-4402-bfe4-5958ce4d6c9b)
 ![1001486298](https://github.com/user-attachments/assets/f161ce55-eebc-4d8e-b4ab-85a9563e24d6)
 ![1001486296](https://github.com/user-attachments/assets/892fff56-9558-4d86-974c-128489ee9afe)
