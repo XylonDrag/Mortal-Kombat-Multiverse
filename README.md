@@ -7,7 +7,7 @@ This is built off of the  Mugen Game Engine. Runs on PC and Android via Winlator
 
 The zip file is 14gb, and is too big for Github, so I uploaded it to Google Drive. Download from the link below:
 
-
+***Will be available tomorrow sometime, still uploading
 
 This is my Beta Version Release.
 
